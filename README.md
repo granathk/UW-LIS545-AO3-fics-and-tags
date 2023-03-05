@@ -1,5 +1,5 @@
 # UW-LIS545-AO3-fics-and-tags
-This repository is a Term Project for UW LIS 545 in Spring Quarter 2023 taught by Mayernick. It will contain 6 things:
+This repository is a Term Project for UW LIS 545 in Spring Quarter 2023. Its contents listed below include 5 items in addition to the README file.
 
 0. A “README” file that lists and describes all of the other files that are included in the repository
 
