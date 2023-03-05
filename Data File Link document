@@ -1,0 +1,36 @@
+[Selective data dump for fan statisticians](https://archiveofourown.org/admin_posts/18804)
+Post Header
+
+Published:
+    2021-03-21 21:35:00 UTC
+Tags:
+
+        [2021](https://archiveofourown.org/admin_posts?tag=243) [site stats](https://archiveofourown.org/admin_posts?tag=62) 
+
+From time to time, we get contacted by students, scholars, and people interested in fandom stats who would like to access information about the fanworks in the AO3 database, such as frequently used tags or growth of a fandom over time. While we're unable to respond to individual requests, today we're pleased to provide a one-time release of data for all of our users.
+
+The data comes in two CSV files.
+
+The first includes information about works:
+
+    creation date
+    language
+    word count
+    restricted or not
+    complete or not
+    associated tag IDs
+
+The second provides the key to the tag IDs:
+
+    tag ID
+    tag type (e.g. Warning, Fandom, Relationship)
+    tag name (unless the tag has fewer than 5 uses)
+    canonical or not
+    an approximate number of uses
+    merger ID (i.e. the tag's canonical version, if it has one)
+
+🏷️ [Download both CSV files as a zip](https://media.archiveofourown.org/ao3/stats/2021/02/26/20210226-stats.zip) (417 MB)
+
+We hope to one day be able to provide regular, automatic dumps of this data, but for now, our focus is on other projects. In the meantime, there are a number of tools available to scrape publicly available data, or you're welcome to build your own. (If you're planning to scrape the Archive, we do ask that you include a delay between requests to reduce load on our servers, and avoid scraping on weekends, which are our busiest time. We'd also appreciate it if you could set your scraper's user agent string to include the word "bot.")
+
+If you use this data in one of your projects, we'd love to hear about it! Drop us a line here in the comments or tag us on social media to show us what you've done.
