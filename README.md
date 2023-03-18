@@ -11,8 +11,8 @@ This repository is a Term Project for UW LIS 545 in Spring Quarter 2023. Its con
 
 2. Structured metadata file – (not yet uploaded) "One or more files in an XML, JSON, or text format that is structured according to a specific metadata standard. If the repository requires metadata to be submitted in a particular standard, please use that. If not, please use the DataCite metadata format, http://schema.datacite.org/"
 
-3. Data and Metadata Profile document - describes both AO3 CSV files.
+3. Data and Metadata Profile [MS Word .docx file] - describes both AO3 CSV files.
 
-4. Repository Profile document
+4. Repository Profile [MS Word .docx file] -  describes the Open Science Framework repository where this data would be preserved.
 
-5. Additional Dataset Information document (not yet uploaded) 
+5. Additional Dataset Information [MS Word .docx file] - describes considerations for the longterm preservation of this dataset and datatype, as well as a suggested citation and licensing.
