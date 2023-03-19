@@ -9,7 +9,7 @@ This repository is a Term Project for UW LIS 545 in Spring Quarter 2023. Its con
     
     (b) 1 CSV file about TAGS and accompanying metadata (tag ID, tag type, tag name, canonical or not, an approximate number of uses, merger ID).
 
-2. Structured metadata file – (not yet uploaded) "One or more files in an XML, JSON, or text format that is structured according to a specific metadata standard. If the repository requires metadata to be submitted in a particular standard, please use that. If not, please use the DataCite metadata format, http://schema.datacite.org/"
+2. Structured Metadata – a file describing all metadata of the 2 CSV files.
 
 3. Data and Metadata Profile [MS Word .docx file] - describes both AO3 CSV files.
 
